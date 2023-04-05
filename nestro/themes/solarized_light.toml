@@ -1,0 +1,39 @@
+# Solarized Light Theme for Hebi
+# Website:    https://ethanschoonover.com/solarized
+# Repository: https://github.com/altercation/solarized
+# Colors:     https://github.com/subtheme-dev/solarized/blob/master/colors/light.yaml
+
+# Solarized Light Base 0
+walls = "657b83"
+
+# Solarized Light Base 01
+background = "93a1a1"
+
+# Solarized Light Base 02
+snake = "fdf6e3"
+
+food = [
+    # Solarized Yellow
+    "b58900",
+
+    # Solarized Orange
+    "cb4b16",
+
+    # Solarized Red
+    "dc322f",
+
+    # Solarized Magenta
+    "d33682",
+
+    # Solarized Violet
+    "6c71c4",
+
+    # Solarized Blue
+    "268bd2",
+
+    # Solarized Cyan
+    "2aa198",
+
+    # Solarized Green
+    "859900"
+]
